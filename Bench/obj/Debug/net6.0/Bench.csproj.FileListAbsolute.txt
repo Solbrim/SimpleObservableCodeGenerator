@@ -1,0 +1,14 @@
+D:\Code\csharp\Bench\Bench\Bench\bin\Debug\net6.0\Bench.exe
+D:\Code\csharp\Bench\Bench\Bench\bin\Debug\net6.0\Bench.deps.json
+D:\Code\csharp\Bench\Bench\Bench\bin\Debug\net6.0\Bench.runtimeconfig.json
+D:\Code\csharp\Bench\Bench\Bench\bin\Debug\net6.0\Bench.dll
+D:\Code\csharp\Bench\Bench\Bench\bin\Debug\net6.0\Bench.pdb
+D:\Code\csharp\Bench\Bench\Bench\obj\Debug\net6.0\Bench.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\csharp\Bench\Bench\Bench\obj\Debug\net6.0\Bench.AssemblyInfoInputs.cache
+D:\Code\csharp\Bench\Bench\Bench\obj\Debug\net6.0\Bench.AssemblyInfo.cs
+D:\Code\csharp\Bench\Bench\Bench\obj\Debug\net6.0\Bench.csproj.CoreCompileInputs.cache
+D:\Code\csharp\Bench\Bench\Bench\obj\Debug\net6.0\Bench.dll
+D:\Code\csharp\Bench\Bench\Bench\obj\Debug\net6.0\refint\Bench.dll
+D:\Code\csharp\Bench\Bench\Bench\obj\Debug\net6.0\Bench.pdb
+D:\Code\csharp\Bench\Bench\Bench\obj\Debug\net6.0\Bench.genruntimeconfig.cache
+D:\Code\csharp\Bench\Bench\Bench\obj\Debug\net6.0\ref\Bench.dll

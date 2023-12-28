@@ -1,0 +1,10 @@
+D:\Code\csharp\Bench\Bench\BenchSource\bin\Debug\netstandard2.0\BenchSource.deps.json
+D:\Code\csharp\Bench\Bench\BenchSource\bin\Debug\netstandard2.0\BenchSource.dll
+D:\Code\csharp\Bench\Bench\BenchSource\bin\Debug\netstandard2.0\BenchSource.pdb
+D:\Code\csharp\Bench\Bench\BenchSource\obj\Debug\netstandard2.0\BenchSource.csproj.AssemblyReference.cache
+D:\Code\csharp\Bench\Bench\BenchSource\obj\Debug\netstandard2.0\BenchSource.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\csharp\Bench\Bench\BenchSource\obj\Debug\netstandard2.0\BenchSource.AssemblyInfoInputs.cache
+D:\Code\csharp\Bench\Bench\BenchSource\obj\Debug\netstandard2.0\BenchSource.AssemblyInfo.cs
+D:\Code\csharp\Bench\Bench\BenchSource\obj\Debug\netstandard2.0\BenchSource.csproj.CoreCompileInputs.cache
+D:\Code\csharp\Bench\Bench\BenchSource\obj\Debug\netstandard2.0\BenchSource.dll
+D:\Code\csharp\Bench\Bench\BenchSource\obj\Debug\netstandard2.0\BenchSource.pdb
