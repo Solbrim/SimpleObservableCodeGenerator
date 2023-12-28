@@ -1,5 +1,0 @@
-D:\Code\csharp\Bench\Bench\BenchSg\obj\Debug\netstandard2.0\BenchSg.csproj.AssemblyReference.cache
-D:\Code\csharp\Bench\Bench\BenchSg\obj\Debug\netstandard2.0\BenchSg.GeneratedMSBuildEditorConfig.editorconfig
-D:\Code\csharp\Bench\Bench\BenchSg\obj\Debug\netstandard2.0\BenchSg.AssemblyInfoInputs.cache
-D:\Code\csharp\Bench\Bench\BenchSg\obj\Debug\netstandard2.0\BenchSg.AssemblyInfo.cs
-D:\Code\csharp\Bench\Bench\BenchSg\obj\Debug\netstandard2.0\BenchSg.csproj.CoreCompileInputs.cache
