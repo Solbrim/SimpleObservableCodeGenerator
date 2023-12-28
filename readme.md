@@ -1,0 +1,1 @@
+Small sample project that contains and ObservableAttribute, which generates a corresponding public property and Changed Action for all field prepended with underscore
